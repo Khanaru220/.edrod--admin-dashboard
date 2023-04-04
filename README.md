@@ -1,0 +1,2 @@
+- Builde project along with EdRod: <https://www.youtube.com/watch?v=wYpCWwD1oz0>
+- Target: learn how to build chart/dashboard to support business/management field
