@@ -1,5 +1,7 @@
-- Builde project along with EdRod: <https://www.youtube.com/watch?v=wYpCWwD1oz0>
-- Target: learn how to build chart/dashboard to support business/management field
+# Admin Dashboard
+
+- Build project along with EdRod: <https://www.youtube.com/watch?v=wYpCWwD1oz0>
+- Target: learn how to visualize chart/dashboard to support business/management/tracking app
 
 ## Dependencies
 
